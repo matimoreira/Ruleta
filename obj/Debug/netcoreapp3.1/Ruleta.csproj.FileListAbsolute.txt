@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.exe
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.deps.json
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.runtimeconfig.json
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.dll
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.pdb
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.dll
+C:\Users\Admin\source\repos\HolaMundo\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.pdb
